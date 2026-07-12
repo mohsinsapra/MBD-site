@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <!-- TODO: replace with rendered 1200x630 WebP hero frame -->
+  <rect width="1200" height="630" fill="#0A0A0B"/>
+  <circle cx="960" cy="180" r="360" fill="#6C5CE7" opacity="0.22"/>
+  <text x="80" y="330" font-family="Arial, sans-serif" font-size="96" font-weight="700" fill="#F5F5F3" letter-spacing="-2">MADE BY MAHMOOD</text>
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="40" fill="#6C5CE7">3D ANIMATION STUDIO</text>
+  <text x="80" y="540" font-family="Courier New, monospace" font-size="24" fill="#8A8A88">WE BRING IDEAS TO LIFE IN 3D — MBM® 2026</text>
+</svg>

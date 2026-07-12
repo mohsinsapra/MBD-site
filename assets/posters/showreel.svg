@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <!-- TODO: replace with real showreel poster frame (WebP) -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1533"/>
+      <stop offset="0.55" stop-color="#0A0A0B"/>
+      <stop offset="1" stop-color="#17171A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.7" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#6C5CE7" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#6C5CE7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <text x="80" y="800" font-family="Courier New, monospace" font-size="30" fill="#8A8A88" letter-spacing="4">SHOWREEL — MADE BY MAHMOOD ©2026</text>
+</svg>
